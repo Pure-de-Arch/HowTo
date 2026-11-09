@@ -12,6 +12,6 @@ Hogyan készítsek új iso-t?
 7. Lépj be az installation-script mappába:  cd installation-scripts/
 8. Futtasd az iso készítéséhez a követkző parancsot: ./30-build-the-iso-the-first-time.sh 
 
-GYIK.
- Mikor készítsek új iso-t?
-  Amikor megjelenik egy új kiadás pl GNOME, akkor érdemes új iso-t készíteni.
+GYIK\
+- Mikor készítsek új iso-t?,\
+Amikor megjelenik egy új kiadás pl GNOME, akkor érdemes új iso-t készíteni.
